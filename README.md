@@ -9,6 +9,7 @@ Finalmente nos encontramos con el carrito que como se menciono antes apareceran 
 A continuacion un gif mostrando todo lo antes mencionado.
 ./assets/tonyFinall.gif
 
+![tonyFinall](https://github.com/emilianoobino/entregaFinal-Obino/assets/140523273/e654809c-8c3d-42db-9b29-fcb5aed2451a)
 
 
 
