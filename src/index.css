@@ -1,0 +1,22 @@
+#root {
+  background: whitesmoke;
+}
+.navBar {
+  background-color: rgb(95, 95, 240) ;
+  color: white;
+  font-size: 30px;
+}
+.carrito {
+  position: relative;
+}
+.cardCarrito {
+  height: 20vw;
+}
+.buttonVer {
+  background-color:  rgb(95, 95, 240);  
+}
+.totalCarrito {
+  text-align: center;
+  margin-top: 1vw;
+}
+

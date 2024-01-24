@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "nombre": "Playstation 3",
+      "tipo": "Playstation",
+      "stock": 10,
+      "precio": 300000,
+      "imagen": "/assets/play3.jpg",
+      "descripcion": "Consola Playstation 3, super slim 500 GB standart"
+    },
+    {
+      "id": 2,
+      "nombre": "Playstation 4",
+      "tipo": "Playstation",
+      "stock": 10,
+      "precio": 500000,
+      "imagen": "/assets/play4.jpg",
+      "descripcion": "Consola Playstation 4 Pro 1TB. Version Digital"
+    },
+    {
+      "id": 3,
+      "nombre": "Playstation 5",
+      "tipo": "Playstation",
+      "stock": 10,
+      "precio": 1000000,
+      "imagen": "/assets/play5.jpg",
+      "descripcion": "Consola Playstation 5, 825 GB standart"
+    },
+    {
+      "id": 4,
+      "nombre": "Nintendo X-Box",
+      "tipo": "Nintendo",
+      "stock": 10,
+      "precio": 600000,
+      "imagen": "/assets/xbox.jpg",
+      "descripcion": "Consola X-Box serie S, 512 GB digital"
+    },
+    {
+      "id": 5,
+      "nombre": "Nintendo Switch",
+      "tipo": "Nintendo",
+      "stock": 10,
+      "precio": 500000,
+      "imagen": "/assets/switch.jpg",
+      "descripcion": "Nintendo switch OLED 64 GB standart"
+    },
+    {
+      "id": 6,
+      "nombre": "God of war",
+      "tipo": "Juegos",
+      "stock": 10,
+      "precio": 25000,
+      "imagen": "/assets/god.jpg",
+      "descripcion": "God of war Ragnarok para PS4"
+    },
+    {
+      "id": 7,
+      "nombre": "Super Mario Bros Wonder",
+      "tipo": "Juegos",
+      "stock": 10,
+      "precio": 80000,
+      "imagen": "/assets/mario.jpg",
+      "descripcion": "Super Mario Bros Wonder para Nintendo Switch"
+    }
+  ]
