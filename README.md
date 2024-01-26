@@ -7,7 +7,7 @@ Cuando elegimos ver mas en el producto elegido, se obtiene informacion mas detal
 Tambien al recorrer la pagina veras que aparece un spinner, esto es para captar la atencion del visitante y evitar que se vaya, como advirtiendo que la pagina esta cargando.
 Finalmente nos encontramos con el carrito que como se menciono antes apareceran las unidades que se agreguen, mientras no se agreguen unidades/productos el carrito se mostrara en 0 (cero). si hacemos click en el carrito entraremos a la pagina y nos mostrara los productos seleccionados con sus respectivas cantidades, precioy la opcion de eliminar productos, tambien nos mostrara la opcion de vaciar carrito y la posibilidad de hacer un registro de la persona. estos datos van a parar a una base de datos en firebase con un unico id (el cual se muestra).
 A continuacion un gif mostrando todo lo antes mencionado.
-./assets/tonyFinall.gif
+/assets/tonyFinall.gif
 
 ![tonyFinall](https://github.com/emilianoobino/entregaFinal-Obino/assets/140523273/e654809c-8c3d-42db-9b29-fcb5aed2451a)
 
